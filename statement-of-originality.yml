@@ -1,0 +1,42 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: for when the moth wings decay, edited the code to fit my design
+    url: https://editor.p5js.org/slow_izzm/sketches/H1fhGJSaX 
+    licence: fair use
+
+  - comment: moth designs 
+    url: https://www.youtube.com/watch?v=O_0fRV4MTZo
+    licence: fair use
+
+  - comment: attraction to the light, but edited to fit my design 
+    url: https://thecodingtrain.com/CodingChallenges/056-attraction-repulsion.html
+    licence: fair use
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  - comment: used for inspiration and learning how to use it
+    url: https://p5js.org/reference/#/p5/mouseWheel
+    licence: fair use 
+
+  - comment: used for inspiration
+    url: https://p5js.org/learn/interactivity.html
+    licence: fair use 
+
+  - comment: used for inspiration
+    url: https://editor.p5js.org/son/sketches/SkJJxG2Cm  
+    licence: fair use 
+
+    
+    
+# sign *your* name and uid here
+name: lydia huang
+uid: u7298641
